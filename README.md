@@ -1,0 +1,11 @@
+# Day 01 - Java Programming Elements
+
+* Learned Java Comments
+* Practiced Basic Data Types and Variables
+* Used Arithmetic Operators and Operator Precedence
+* Understood Type Conversion
+* Took User Input using Scanner
+* Solved Level 1 and Level 2 Java Programs
+* Followed Proper Naming Conventions
+* Avoided Hard Coding
+* Maintained Clean and Properly Indented Code
