@@ -9,3 +9,11 @@
 * Followed Proper Naming Conventions
 * Avoided Hard Coding
 * Maintained Clean and Properly Indented Code
+
+# Day 02 - Java Control Flow
+
+* Variables and User Input
+* If-Else Statements
+* For and While Loops
+* Basic Control Flow Programs
+* FizzBuzz, Leap Year, Factors, Tables
