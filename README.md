@@ -17,3 +17,11 @@
 * For and While Loops
 * Basic Control Flow Programs
 * FizzBuzz, Leap Year, Factors, Tables
+
+# Day 03 - Array Learning
+
+* Practiced 1D & 2D Arrays
+* Worked with loops and `array.length`
+* Solved array-based problems
+* Implemented sorting and digit operations
+* Improved Java problem-solving skills 💻✨
