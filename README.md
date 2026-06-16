@@ -24,4 +24,15 @@
 * Worked with loops and `array.length`
 * Solved array-based problems
 * Implemented sorting and digit operations
-* Improved Java problem-solving skills 💻✨
+* Improved Java problem-solving skills 
+
+# Day 04 – Strings and Exception Handling
+
+* Java Strings
+* String Input and Arrays
+* Escape Sequences
+* String Methods
+* ASCII Character Codes
+* Exception Handling
+* Checked and Unchecked Exceptions
+* Best Programming Practices
