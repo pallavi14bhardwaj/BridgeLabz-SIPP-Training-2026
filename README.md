@@ -36,3 +36,14 @@
 * Exception Handling
 * Checked and Unchecked Exceptions
 * Best Programming Practices
+
+## Day 05 - Java Recursion Lab Practices 
+
+* Understanding Recursion
+* Golden Rules of Recursion
+* Base Case and Recursive Case
+* Recursion Analogy
+* Call Stack Working
+* Recursion Tree
+* Stack Overflow Awareness
+* Recursive Problem Solving
