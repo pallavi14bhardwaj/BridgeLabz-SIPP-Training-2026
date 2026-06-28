@@ -37,7 +37,18 @@
 * Checked and Unchecked Exceptions
 * Best Programming Practices
 
-## Day 05 - Java Recursion Lab Practices 
+
+## Day 05 - Methods Lab Practices
+
+* User-Defined Methods
+* Method Reusability
+* Dynamic Methods (Parameters)
+* Recursive Methods
+* Static Methods
+* Java Standard Library Methods
+* java.lang.Math Class
+
+## Day 06 - Recursion Lab Practices 
 
 * Understanding Recursion
 * Golden Rules of Recursion
@@ -47,3 +58,23 @@
 * Recursion Tree
 * Stack Overflow Awareness
 * Recursive Problem Solving
+
+## Day 07 - Exception Handling Lab Practices
+
+* Types of Exceptions (Checked, Unchecked, Custom)
+* Exception Handling using try-catch
+* try-catch-finally Blocks
+* try-with-resources Statement
+* throw Statement
+* throws Clause
+* Creating Custom Exceptions
+* Extending the Exception Class
+* Defining Exception Constructors
+
+## Day 08 - I/O Handling Lab Practices
+
+* Scanner for User Input
+* BufferedReader for Efficient Input
+* File I/O using FileReader and FileWriter
+* Basic Serialization
+
