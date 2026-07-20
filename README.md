@@ -78,3 +78,39 @@
 * File I/O using FileReader and FileWriter
 * Basic Serialization
 
+## Day 09 - Object-Oriented Programming Fundamentals
+
+* Class and Object
+* Constructor
+* this keyword
+* static vs instance
+* Access modifiers
+
+## Day 10 - Encapsulation & Abstraction
+
+* Getters and Setters
+* Data Hiding
+* Abstract Class
+* Abstract Methods
+
+## Day 11 - Inheritance
+
+* Super keyword
+* Constructor chaining
+* Method overriding
+* Final keyword
+
+## Day 12 - Polymorphism
+
+* Polymorphism Concepts
+* Runtime Polymorphism
+* instanceof Operator
+* Object Casting
+* Dynamic Method Dispatch
+
+## Day 13 - Interfaces
+
+* Interfaces Fundamentals
+* Interface vs Abstract Class
+* Multiple Interface Implementation
+* Default & Static Interface Methods
